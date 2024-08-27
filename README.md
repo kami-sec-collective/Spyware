@@ -1,1 +1,4 @@
-# Spyware
+#**Spyware**:
+#        * Adware
+#        * Keyloggers
+#        * Trackers
